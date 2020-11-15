@@ -1,0 +1,15 @@
+{
+  "name": "serie-a",
+  "version": "1.0.0",
+  "description": "Aplikasi Serie A",
+  "main": "service-worker.js",
+  "dependencies": {
+    "web-push": "^3.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arif Faturahman",
+  "license": "ISC"
+}

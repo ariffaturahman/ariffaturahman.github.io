@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(236, 238, 238);
+}
+
+.card {
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.container {
+    width: 95%;
+}
+
+.schedule .tr .td {
+    text-align: center !important;
+}
